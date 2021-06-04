@@ -1,0 +1,5 @@
+Hunters orange 50 36
+Fishing blue 50 36
+Azukita green 70 24
+Music black 100 48
+Moda white 150 36
